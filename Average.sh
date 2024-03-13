@@ -1,4 +1,4 @@
- echo "Enter a Limit";
+echo "Enter a Limit";
 read n;
 i=0;
 while((i<=n))

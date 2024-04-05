@@ -38,7 +38,7 @@ case $ch in
 	 echo "Enter 2 numbers"
 		  read a
 		  read b
-		  ((sum=$a+$b))
+		  ((sum=$a/$b))
 		  echo "Resut=$sum "
 		  ;;
 	 5)

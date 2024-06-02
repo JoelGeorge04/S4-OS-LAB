@@ -29,8 +29,6 @@ void main()
 		p[i].status=0;
 	}
 	
-	
-	
 	idle=0;
 	ls=0;
 	num=0;

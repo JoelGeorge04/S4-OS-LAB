@@ -1,8 +1,8 @@
-echo "Enter name";
+echo "Enter name:";
 read name;
-echo "Enter age";
+echo "Enter age:";
 read age;
-echo "Enter city";
+echo "Enter city:";
 read city;
 echo "Details are:"
 echo "Name:$name";
